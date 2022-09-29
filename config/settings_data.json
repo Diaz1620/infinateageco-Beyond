@@ -18,8 +18,9 @@
     "typography--paragraph--size": "medium",
     "product--hover-image-enabled": true,
     "product--text-alignment": "center",
+    "social--instagram--url": "https:\/\/www.instagram.com\/infinite_age_co\/",
     "social--facebook--url": "https:\/\/www.facebook.com\/infiniteageco\/",
-    "social--twitter--url": "https:\/\/www.instagram.com\/infinite_age_co\/",
+    "social--twitter--url": "",
     "favicon": "shopify:\/\/shop_images\/ia-favicon.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/InfiniteAge-new-logo-with-sub_079be50e-e0eb-44db-b916-4ce65d7e3bca.png",
     "checkout_accent_color": "#006132",
@@ -56,14 +57,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "c86611e6-6d68-4d35-acbf-e0957c80279c": {
-            "type": "about",
-            "settings": {
-              "about-title": "STAY IN TOUCH",
-              "text": "",
-              "subscribe--show-social-icons": true
-            }
-          },
           "e32c2919-5280-4489-935f-dc5071aecf12": {
             "type": "menu",
             "settings": {
@@ -77,12 +70,29 @@
               "menu-title": "SUPPORT",
               "menu": "new-footer-menu-support"
             }
+          },
+          "c86611e6-6d68-4d35-acbf-e0957c80279c": {
+            "type": "about",
+            "settings": {
+              "about-title": "STAY IN TOUCH",
+              "text": "",
+              "subscribe--show-social-icons": true
+            }
+          },
+          "3489b6ca-b65c-4363-a6a8-7259a6c6bf52": {
+            "type": "subscribe",
+            "settings": {
+              "newsletter--heading": "Newsletter",
+              "newsletter--info": "<p>Be the first to receive updates on new arrivals, special promos and sales.<\/p>",
+              "subscribe--show-newsletter": true
+            }
           }
         },
         "block_order": [
-          "c86611e6-6d68-4d35-acbf-e0957c80279c",
           "e32c2919-5280-4489-935f-dc5071aecf12",
-          "71875b6d-1dad-4541-9984-699f9700b197"
+          "71875b6d-1dad-4541-9984-699f9700b197",
+          "c86611e6-6d68-4d35-acbf-e0957c80279c",
+          "3489b6ca-b65c-4363-a6a8-7259a6c6bf52"
         ],
         "settings": {
           "show-region-selector": false,
