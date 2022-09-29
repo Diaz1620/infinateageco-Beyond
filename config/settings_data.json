@@ -57,18 +57,19 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "e32c2919-5280-4489-935f-dc5071aecf12": {
-            "type": "menu",
-            "settings": {
-              "menu-title": "EXPLORE",
-              "menu": "new-footer-menu-explore"
-            }
-          },
           "71875b6d-1dad-4541-9984-699f9700b197": {
             "type": "menu",
             "settings": {
               "menu-title": "SUPPORT",
               "menu": "new-footer-menu-support"
+            }
+          },
+          "dae7322a-032d-4bb8-8a97-37bd2c180057": {
+            "type": "about",
+            "settings": {
+              "about-title": "Contact Us",
+              "text": "<p>Infinite Age Co: 19125 North Creek ParkwaySuite 120 Bothell WA 98011<\/p><p>Contact@InfiniteAge.com<\/p><p><a href=\"wtai:\/\/wp\/mc;8558703082\">(855) 870 3082<\/a><\/p><p><\/p><p><strong>FDA Disclaimer: The statements made regarding these products have not been evaluated by the Food and Drug Administration. The efficacy of these products has not been confirmed by FDA-approved research. These products are not intended to diagnose, treat, cure or prevent any disease.<\/strong><\/p>",
+              "subscribe--show-social-icons": false
             }
           },
           "c86611e6-6d68-4d35-acbf-e0957c80279c": {
@@ -89,8 +90,8 @@
           }
         },
         "block_order": [
-          "e32c2919-5280-4489-935f-dc5071aecf12",
           "71875b6d-1dad-4541-9984-699f9700b197",
+          "dae7322a-032d-4bb8-8a97-37bd2c180057",
           "c86611e6-6d68-4d35-acbf-e0957c80279c",
           "3489b6ca-b65c-4363-a6a8-7259a6c6bf52"
         ],
