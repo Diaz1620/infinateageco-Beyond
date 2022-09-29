@@ -1,0 +1,185 @@
+{
+  "sections": {
+    "16324399488a55ecb4": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "light",
+        "light-text": false,
+        "container-width": 1,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "QUESTIONS?",
+        "heading": "READ OUR FAQ",
+        "text": ""
+      }
+    },
+    "main": {
+      "type": "page",
+      "settings": {
+        "show-title": false,
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": false,
+        "spacing-below": true
+      }
+    },
+    "16324397781a8be68b": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "16324397781a8be68b-0": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "I made a mistake on my order. What should I do?",
+            "description": "<p>Hey! Mistakes happen. Contact us as soon as you notice the mistake and we will make sure you get your order safely. Reach us via email at: contact@infiniteage.com<\/p>",
+            "page-content": ""
+          }
+        },
+        "16324397781a8be68b-1": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "I just placed my order. Now what?",
+            "description": "<p>Good Question! We send out an order confirmation email shortly after placing your order. If you did not receive one, and it is not in your spam folder, contact our customer support team (live chat, email, phone) to ensure your order details were submitted correctly.<br\/><\/p><p>Shortly after you receive the confirmation email, you will receive another email (same-day) with your tracking number. 3-4 days later, you will receive your order.<\/p>",
+            "page-content": ""
+          }
+        },
+        "16324397781a8be68b-2": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "Where is my order?",
+            "description": "<p>Check your inbox for your tracking number email. If you can't find it, contact us at info@InfiniteAge.com or Live chat.<\/p>",
+            "page-content": ""
+          }
+        },
+        "a6080b6f-76b2-411e-84ba-9bbd1dbedff2": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "There's a mistake with my order, what should I do?",
+            "description": "<p>Your satisfaction is guaranteed! Contact us with an explanation of what happened (pictures encouraged) and we will immediately correct the mistake.<\/p>",
+            "page-content": ""
+          }
+        },
+        "5212a784-4faa-4ff4-b627-6ca5174a15f9": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "My order is being returned to sender, what should I do?",
+            "description": "<p>This issue is caused by an error with your address. Contact us and we will watch for your package and it's return to our warehouse. We will then ship your order, at no cost to you.<\/p>",
+            "page-content": ""
+          }
+        }
+      },
+      "block_order": [
+        "16324397781a8be68b-0",
+        "16324397781a8be68b-1",
+        "16324397781a8be68b-2",
+        "a6080b6f-76b2-411e-84ba-9bbd1dbedff2",
+        "5212a784-4faa-4ff4-b627-6ca5174a15f9"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "ORDER STATUS",
+        "title-alignment": "center",
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "1664440772eae1ea09": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "1664440772ca5fbcd6-0": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "What courier do you guys use?",
+            "description": "<p>We use the United States Postal Service First-Class shipping with lower weight packages. Once packages get a little heavier, we’ll then use USPS priority mail.<\/p>",
+            "page-content": ""
+          }
+        },
+        "1664440772ca5fbcd6-1": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "How long does domestic shipping take?",
+            "description": "<p>Generally, domestic shipping takes 2-4 days.<\/p>",
+            "page-content": ""
+          }
+        },
+        "1664440772ca5fbcd6-2": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "Do you ship internationally?",
+            "description": "<p><\/p><p>Yes! We ship to most countries outside of the U.S. Rates vary by country and can be seen during checkout. Packages shipped to international addresses generally take 8-15 days to arrive. Shipping overseas to an APO address can take up to 45 days to arrive. Note: Orders often will be passed to and delivered by your country's local post office. Please be aware that depending on your country, you may have to pay additional import duties or customs when you receive your shipment. Because Infinite Age Co. is a U.S.-based company, we, unfortunately, have no control over these charges. These fees are set by national governments and are the responsibility of the buyer. If you are not familiar with your country’s policies and taxation practices, please check before ordering. For more information on how these fees are calculated and why they're required, please contact your local postal service or government office. Payment of these is required to release your order from customs on arrival. For selected countries, we offer premium shipping options where we can collect and pay these import duties at the time of checkout. Rates for standard and, if available, premium delivery vary by country and will be shown at checkout. Unfortunately, we do not ship packages to the following countries due to continued deliverability issues: Afghanistan, Aland Islands, Albania, Algeria, Andorra, Angola, Anguilla, Azerbaijan, Bahrain, Bangladesh, Bonaire, Sint Eustatius and Saba, Bosnia And Herzegovina, Bouvet Island, British Indian Ocean Territory, Brunei, Bulgaria, Burkina Faso, Burundi, Cuba, French Southern Territories, Guatemala, Heard Island And Mcdonald Islands, Iran, Iraq, Kazakhstan, North Korea, Kuwait, Lebanon, Mexico, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, South Georgia And The South Sandwich Islands, United Arab Emirates, Yemen, Zimbabwe<\/p>",
+            "page-content": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664440772ca5fbcd6-0",
+        "1664440772ca5fbcd6-1",
+        "1664440772ca5fbcd6-2"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "SHIPPING",
+        "title-alignment": "center",
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "1664440886e0e8427a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "1664440886ab4ca787-0": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "I'm not happy with my order, do I do?",
+            "description": "<p>We’re sincerely sorry to hear that you’re not happy with us. We hope that each customer is satisfied. However, if you’re not, contact us within 60 days for a full refund. You will be refunded upon the return of our items.<\/p>",
+            "page-content": ""
+          }
+        },
+        "1664440886ab4ca787-1": {
+          "type": "collapsible-tab",
+          "settings": {
+            "heading": "What should I do if I received the wrong order?",
+            "description": "<p>This is completely our fault. Send an email to contact@infiniteageco.com with an explanation of the error (pictures are encouraged) and we will get your correct order out the door that same day.<\/p>",
+            "page-content": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664440886ab4ca787-0",
+        "1664440886ab4ca787-1"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "RETURNS AND REPLACEMENTS",
+        "title-alignment": "center",
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "166443814427cce50d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom-liquid": "<div id=\"our-guarantee\" class=\"perks\">\n    <div CLASS=\"perksRow\">\n    <div class=\"perksCol\">\n        <img class=\"pureIcon\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infiniteage-deliveryicon.png?v=1597257253\" \/>\n<!--                     <div class=\"perksTitle\">SHIPPING IS FAST<\/div> -->\n      \t\t\t\t<div class=\"perksTitle\">FAST 3-DAY SHIPPING<\/div>\n                    <div class=\"pureTextp\">When you place an order, you’ll receive a tracking number for your shipment within one hour. \n<\/div>\n    <\/div>\n     <div class=\"perksCol\">\n        <img class=\"pureIcon\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infiniteage-qualityicon.png?v=1597257253\" \/>\n                    <div class=\"perksTitle\">60-DAY MONEY BACK GUARANTEE<\/div>\n                    <div class=\"pureTextp\">We provide the best life-extension supplements on the market. If you’re not completely satisfied, we’ll refund 100% of your purchase price. No questions asked. Please let us know within 2 months of your purchase. <\/div>\n    <\/div>\n    \n        <div class=\"perksCol\">\n        <img class=\"pureIcon\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infiniteage-customersupport-icon.png?v=1597257253\" \/>\n                    <div class=\"perksTitle\">SUPPORT AS SUPERIOR AS OUR SUPPLEMENTS<\/div>\n                    <div class=\"pureTextp\">We’re always here for you with what we consider the best support in the industry. Choose from live chat, email, and phone.  <\/div>\n    <\/div>\n    <\/div>\n<\/div>\n<style>\n.perks {\n    background-color: #ecf8ff;\n    padding-top: 100px;\n    padding-bottom: 100px;\n    background:  url(https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infinate-age-footer-bg.jpg)!important;\nmargin-left: 0px !important;\n}\n.perksRow {\n    display: table;\n    height: auto;\n    position: relative;\n    width: 90%;\n    margin: 0 auto;\n    MAX-WIDTH: 1275PX;\n}\n.perksCol {\n    display: table-cell;\n    width: 33.33%;\n    vertical-align: top;\n    text-align: center;\n    box-sizing: border-box;\n    padding: 0px 20px 0px 20px;\n}\n.pureIcon {\n    width: 50px;\n    margin: 0 auto;\n}\n.perksTitle {\n    text-decoration: none;\n    font-weight: 600;\n    font-size: 18px;\n    letter-spacing: 2px;\n    margin-top: 10px;\n    margin-bottom: 15px;\n}\n<\/style>",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false
+      }
+    }
+  },
+  "order": [
+    "16324399488a55ecb4",
+    "main",
+    "16324397781a8be68b",
+    "1664440772eae1ea09",
+    "1664440886e0e8427a",
+    "166443814427cce50d"
+  ]
+}

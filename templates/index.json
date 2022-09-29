@@ -1,0 +1,201 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hero-banner.jpg",
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "shopify:\/\/pages\/infinite-age-shop-2",
+            "link-text": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-0"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-height": 3,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "blocks_per_slide_mobile": "1",
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide"
+      }
+    },
+    "1664436384e124f177": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom-liquid": "<div class=\"js-cluster zp cac-37325928\"> <div class=\"flex-row\"> <div class=\"xs-12 zpa-flex--column\"> <div class=\"zpa-image-container zpa-mobile-align--center zpa-align--center zp ba-37325927\" data-id=\"37325927\"> <a class=\"zpa-disabled-when-link-empty zpa-lazyloaded\" href=\"https:\/\/infiniteage.com\/pages\/infinite-age-shop-2\" target=\"_self\" data-type=\"custom_dest\" data-expand=\"-1\"> <img sizes=\"100vw,2048px,1940px,1680px,1536px,1376px,1080px,840px,540px\" data-width=\"1920\" data-height=\"700\" data-lowsrc=\"https:\/\/cdn05.zipify.com\/FtLYfyzdHNVv-tit2W_w4TIffH4=\/fit-in\/540x0\/filters:quality(4):blur(9)\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg\" data-parent-fit=\"contain\" data-srcset=\"https:\/\/cdn05.zipify.com\/1LmPua-iz1bv7A3jOxKrhoUyOYo=\/fit-in\/540x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 540w, https:\/\/cdn05.zipify.com\/-TI4ozoXbCDB2rKc_tmEmsrtJJE=\/fit-in\/840x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 840w, https:\/\/cdn05.zipify.com\/T50l0FJG0_4UFfWWu4zRxI2GhgM=\/fit-in\/1080x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1080w, https:\/\/cdn05.zipify.com\/3WpTid11_Bfqng142UEaTH8yIcA=\/fit-in\/1376x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1376w, https:\/\/cdn05.zipify.com\/BVb9qy6bj8n3XQHRDSa7lBQn3_8=\/fit-in\/1536x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1536w, https:\/\/cdn05.zipify.com\/3Iy5Q96XA04Hu_-L6DqkiM5GP9M=\/fit-in\/1680x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1680w, https:\/\/cdn05.zipify.com\/d62BmI45UlAS0I0guvqGbzX-Q_8=\/fit-in\/1940x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1940w, https:\/\/cdn05.zipify.com\/UJK2vbxU7gp9rhhrj3QUAPC-HmE=\/fit-in\/2048x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 2048w\" data-src=\"https:\/\/cdn05.zipify.com\/UJK2vbxU7gp9rhhrj3QUAPC-HmE=\/fit-in\/2048x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg\" class=\"zpa-img-fluid zp ba-37325929 zpa-lazyloaded\" data-id=\"37325929\" srcset=\"https:\/\/cdn05.zipify.com\/1LmPua-iz1bv7A3jOxKrhoUyOYo=\/fit-in\/540x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 540w, https:\/\/cdn05.zipify.com\/-TI4ozoXbCDB2rKc_tmEmsrtJJE=\/fit-in\/840x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 840w, https:\/\/cdn05.zipify.com\/T50l0FJG0_4UFfWWu4zRxI2GhgM=\/fit-in\/1080x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1080w, https:\/\/cdn05.zipify.com\/3WpTid11_Bfqng142UEaTH8yIcA=\/fit-in\/1376x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1376w, https:\/\/cdn05.zipify.com\/BVb9qy6bj8n3XQHRDSa7lBQn3_8=\/fit-in\/1536x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1536w, https:\/\/cdn05.zipify.com\/3Iy5Q96XA04Hu_-L6DqkiM5GP9M=\/fit-in\/1680x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1680w, https:\/\/cdn05.zipify.com\/d62BmI45UlAS0I0guvqGbzX-Q_8=\/fit-in\/1940x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 1940w, https:\/\/cdn05.zipify.com\/UJK2vbxU7gp9rhhrj3QUAPC-HmE=\/fit-in\/2048x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg 2048w\" src=\"https:\/\/cdn05.zipify.com\/UJK2vbxU7gp9rhhrj3QUAPC-HmE=\/fit-in\/2048x0\/8f0e8e982ccc4e628c3932c4f08c9e0f\/smac-banner-with-cta-2-2.jpeg\" width=\"1920\" height=\"700\" data-old-image=\"true\"> <\/a> <\/div> <\/div> <\/div> <\/div>\n\n<style>\n.zpa-img-fluid {\n    height: auto;\n    max-width: 100%;\n}\n<\/style>",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false
+      }
+    },
+    "featured-collection-grid": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "outright-products",
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "featured-collection--image--show": false,
+        "featured-collection--description--show": false,
+        "display-type": "grid",
+        "products-per-row--desktop": "3",
+        "products-per-row--mobile": "1"
+      }
+    },
+    "text-columns": {
+      "type": "text-columns",
+      "blocks": {
+        "text-below-block-0": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/1664259055393.jpg",
+            "title": "A Complete Detox",
+            "description": "<p>Many have found this product assisted in cleansing & purifying their system of toxins. The detoxifying effect may increase metabolism and possibly blood circulation. Those same persons have said goodbye to sluggishness and bloating from an increase in gut function.<\/p>",
+            "link-url": "",
+            "link-text": ""
+          }
+        },
+        "text-below-block-1": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/1664259077392.jpg",
+            "title": "Increase Vitality",
+            "description": "<p>Sea Moss may help increase the core vitality with improved thyroid health. This would help you experience peak energy levels and a better overall mood, helping you take on the day at your very best.<\/p>",
+            "link-url": "",
+            "link-text": ""
+          }
+        },
+        "text-below-block-2": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/1664259106826.jpg",
+            "title": "Boost Immunity Function",
+            "description": "<p>Some have experienced less illness while using Sea Moss suggesting that for some it helps supercharge their immune system and may even accelerate recovery & replenishment of the body after a long battle with any disease.<\/p>",
+            "link-url": "",
+            "link-text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text-below-block-0",
+        "text-below-block-1",
+        "text-below-block-2"
+      ],
+      "settings": {
+        "background-color": "light",
+        "light-text": false,
+        "block-spacing": true,
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true,
+        "width": 3,
+        "image-width": 0,
+        "mobile-width": "2",
+        "text-alignment": "center",
+        "heading": "The Potential Benefits of Sea Moss",
+        "subtitle": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "1664201412588d13c1": {
+      "type": "custom-content",
+      "settings": {
+        "custom_html": "<h2 class=\"featured-blog--heading\">What Customers Are Saying About Us<\/h2>\n<style>\n.custom-content--root {\n    margin-bottom: -50px;\n}\n<\/style>"
+      }
+    },
+    "1664436988719a8aaf": {
+      "type": "apps",
+      "blocks": {
+        "e0d1f398-6687-45be-943c-9fa6e8170448": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "title": "",
+            "auto_play": true,
+            "take": 30,
+            "color_title": "",
+            "color_star": "",
+            "color_text": "",
+            "color_link": "",
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "5",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        }
+      },
+      "block_order": [
+        "e0d1f398-6687-45be-943c-9fa6e8170448"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": true
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "background-color": "light",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "heading": "Don't miss our exclusive health promos!",
+        "newsletter--subheading": ""
+      }
+    },
+    "1664435677b3b028cc": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom-liquid": "<div id=\"our-guarantee\" class=\"perks\">\n    <div CLASS=\"perksRow\">\n    <div class=\"perksCol\">\n        <img class=\"pureIcon\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infiniteage-deliveryicon.png?v=1597257253\" \/>\n<!--                     <div class=\"perksTitle\">SHIPPING IS FAST<\/div> -->\n      \t\t\t\t<div class=\"perksTitle\">FAST 3-DAY SHIPPING<\/div>\n                    <div class=\"pureTextp\">When you place an order, you’ll receive a tracking number for your shipment within one hour. \n<\/div>\n    <\/div>\n     <div class=\"perksCol\">\n        <img class=\"pureIcon\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infiniteage-qualityicon.png?v=1597257253\" \/>\n                    <div class=\"perksTitle\">60-DAY MONEY BACK GUARANTEE<\/div>\n                    <div class=\"pureTextp\">We provide the best life-extension supplements on the market. If you’re not completely satisfied, we’ll refund 100% of your purchase price. No questions asked. Please let us know within 2 months of your purchase. <\/div>\n    <\/div>\n    \n        <div class=\"perksCol\">\n        <img class=\"pureIcon\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infiniteage-customersupport-icon.png?v=1597257253\" \/>\n                    <div class=\"perksTitle\">SUPPORT AS SUPERIOR AS OUR SUPPLEMENTS<\/div>\n                    <div class=\"pureTextp\">We’re always here for you with what we consider the best support in the industry. Choose from live chat, email, and phone.  <\/div>\n    <\/div>\n    <\/div>\n<\/div>\n<style>\n.perks {\n    background-color: #ecf8ff;\n    padding-top: 100px;\n    padding-bottom: 100px;\n    background:  url(https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infinate-age-footer-bg.jpg)!important;\nmargin-left: 0px !important;\n}\n.perksRow {\n    display: table;\n    height: auto;\n    position: relative;\n    width: 90%;\n    margin: 0 auto;\n    MAX-WIDTH: 1275PX;\n}\n.perksCol {\n    display: table-cell;\n    width: 33.33%;\n    vertical-align: top;\n    text-align: center;\n    box-sizing: border-box;\n    padding: 0px 20px 0px 20px;\n}\n.pureIcon {\n    width: 50px;\n    margin: 0 auto;\n}\n.perksTitle {\n    text-decoration: none;\n    font-weight: 600;\n    font-size: 18px;\n    letter-spacing: 2px;\n    margin-top: 10px;\n    margin-bottom: 15px;\n}\n<\/style>",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "1664436384e124f177",
+    "featured-collection-grid",
+    "text-columns",
+    "1664201412588d13c1",
+    "1664436988719a8aaf",
+    "newsletter",
+    "1664435677b3b028cc"
+  ]
+}

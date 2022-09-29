@@ -1,0 +1,30 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+        "show-title": true,
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "1664438318616c0b7b": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom-liquid": "<div id=\"our-guarantee\" class=\"perks\">\n    <div CLASS=\"perksRow\">\n    <div class=\"perksCol\">\n        <img class=\"pureIcon\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infiniteage-deliveryicon.png?v=1597257253\" \/>\n<!--                     <div class=\"perksTitle\">SHIPPING IS FAST<\/div> -->\n      \t\t\t\t<div class=\"perksTitle\">FAST 3-DAY SHIPPING<\/div>\n                    <div class=\"pureTextp\">When you place an order, you’ll receive a tracking number for your shipment within one hour. \n<\/div>\n    <\/div>\n     <div class=\"perksCol\">\n        <img class=\"pureIcon\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infiniteage-qualityicon.png?v=1597257253\" \/>\n                    <div class=\"perksTitle\">60-DAY MONEY BACK GUARANTEE<\/div>\n                    <div class=\"pureTextp\">We provide the best life-extension supplements on the market. If you’re not completely satisfied, we’ll refund 100% of your purchase price. No questions asked. Please let us know within 2 months of your purchase. <\/div>\n    <\/div>\n    \n        <div class=\"perksCol\">\n        <img class=\"pureIcon\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infiniteage-customersupport-icon.png?v=1597257253\" \/>\n                    <div class=\"perksTitle\">SUPPORT AS SUPERIOR AS OUR SUPPLEMENTS<\/div>\n                    <div class=\"pureTextp\">We’re always here for you with what we consider the best support in the industry. Choose from live chat, email, and phone.  <\/div>\n    <\/div>\n    <\/div>\n<\/div>\n<style>\n.perks {\n    background-color: #ecf8ff;\n    padding-top: 100px;\n    padding-bottom: 100px;\n    background:  url(https:\/\/cdn.shopify.com\/s\/files\/1\/0267\/7080\/0737\/files\/infinate-age-footer-bg.jpg)!important;\nmargin-left: 0px !important;\n}\n.perksRow {\n    display: table;\n    height: auto;\n    position: relative;\n    width: 90%;\n    margin: 0 auto;\n    MAX-WIDTH: 1275PX;\n}\n.perksCol {\n    display: table-cell;\n    width: 33.33%;\n    vertical-align: top;\n    text-align: center;\n    box-sizing: border-box;\n    padding: 0px 20px 0px 20px;\n}\n.pureIcon {\n    width: 50px;\n    margin: 0 auto;\n}\n.perksTitle {\n    text-decoration: none;\n    font-weight: 600;\n    font-size: 18px;\n    letter-spacing: 2px;\n    margin-top: 10px;\n    margin-bottom: 15px;\n}\n<\/style>",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664438318616c0b7b"
+  ]
+}
