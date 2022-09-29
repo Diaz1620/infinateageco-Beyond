@@ -82,8 +82,8 @@
           "3489b6ca-b65c-4363-a6a8-7259a6c6bf52": {
             "type": "subscribe",
             "settings": {
-              "newsletter--heading": "Newsletter",
-              "newsletter--info": "<p>Be the first to receive updates on new arrivals, special promos and sales.<\/p>",
+              "newsletter--heading": "DON'T MISS OUR EXCLUSIVE HEALTH PROMOS!",
+              "newsletter--info": "",
               "subscribe--show-newsletter": true
             }
           }
