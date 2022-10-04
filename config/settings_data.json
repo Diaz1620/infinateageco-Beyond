@@ -22,6 +22,7 @@
     "social--facebook--url": "https:\/\/www.facebook.com\/infiniteageco\/",
     "social--twitter--url": "",
     "favicon": "shopify:\/\/shop_images\/ia-favicon.png",
+    "cart--type": "page",
     "checkout_logo_image": "shopify:\/\/shop_images\/InfiniteAge-new-logo-with-sub_079be50e-e0eb-44db-b916-4ce65d7e3bca.png",
     "checkout_accent_color": "#006132",
     "checkout_button_color": "#ec4414",
