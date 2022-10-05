@@ -83,7 +83,6 @@
           },
           "3489b6ca-b65c-4363-a6a8-7259a6c6bf52": {
             "type": "subscribe",
-            "disabled": true,
             "settings": {
               "newsletter--heading": "DON'T MISS OUR EXCLUSIVE HEALTH PROMOS!",
               "newsletter--info": "",
